@@ -1,0 +1,5 @@
+.DS_Store
+
+redis_data
+redis_conf/redis.conf
+redisinsight_data
