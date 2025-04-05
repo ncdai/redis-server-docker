@@ -2,7 +2,7 @@
 
 ## Configure Redis
 
-Create `redis_conf/.redis.conf` file with the following content:
+Create `redis_conf/redis.conf` file with the following content:
 
 ```bash
 requirepass your_redis_password
