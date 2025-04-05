@@ -19,3 +19,7 @@ docker compose up -d
 
 - redis: `localhost:6379`
 - redisinsight: `localhost:5540`
+  - host: `redis`
+  - port: `6379`
+  - username: `default`
+  - password: `your_redis_password`
